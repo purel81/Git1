@@ -6,3 +6,5 @@
         <farmland id="29" priceScale="1" npcName="NPC_US_03" />
 		3
 		3
+		3
+		
