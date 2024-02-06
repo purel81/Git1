@@ -4,9 +4,10 @@
         <farmland id="27" priceScale="1" npcName="NPC_US_11" /><!-- forest = north east -->
         <farmland id="28" priceScale="1" npcName="NPC_US_01" /><!-- outer edge forest area -->
         <farmland id="29" priceScale="1" npcName="NPC_US_03" />
-		3
-		3
-		3
-		3
 		2
+		2
+		2
+		2
+		2
+
 
